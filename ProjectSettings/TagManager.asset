@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Weapon
+  - Enemy
+  - Teleporter
+  - DeactivateOnStart
+  - EnemyBullet
+  - PlayerBullet
+  - UIDeactivate
+  - EnemyWeapon
+  - KeybindButton
+  - text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Camera
+  - Water
+  - UI
+  - PlayerBullets
+  - Player
+  - Weapon
+  - Ground
+  - EnemyBullets
+  - Enemies
+  - GroundMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
